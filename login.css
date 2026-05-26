@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f5f7fb;
+}
+
+/* Section */
+section{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 20px 40px;
+    z-index: 20;
+}
+
+/* Form Box */
+.form_container{
+    background-color: #fff;
+    width: 500px;
+    min-height: 390px;
+    padding: 35px 35px;
+    border-radius: 10px;
+    box-shadow: 0 0 18px rgba(0,0,0,0.08);
+}
+
+/* Heading */
+h1{
+    color: rgb(47, 47, 133);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+/* Form */
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+/* Input Group */
+.form_group{
+    position: relative;
+    width: 100%;
+}
+
+/* Icon */
+.form_group i{
+    position: absolute;
+    top: 50%;
+    left: 14px;
+    transform: translateY(-50%);
+    font-size: 15px;
+    color: gray;
+    z-index: 2;
+}
+
+/* Input */
+.form_group input{
+    width: 100%;
+    padding: 14px 14px 14px 42px;
+    border: 1px solid #d0d0d0;
+    outline: none;
+    font-size: 15px;
+    border-radius: 6px;
+    background: #fff;
+}
+
+/* Label */
+.form_group label{
+    position: absolute;
+    top: 14px;
+    left: 42px;
+    color: gray;
+    font-size: 14px;
+    pointer-events: none;
+    transition: 0.3s;
+    background: #fff;
+    padding: 0 4px;
+}
+
+/* Floating Label */
+.form_group input:focus ~ label,
+.form_group input:valid ~ label{
+    top: -10px;
+    left: 35px;
+    font-size: 13px;
+    color: rgb(47, 47, 133);
+}
+
+/* Focus Border */
+.form_group input:focus{
+    border-color: rgb(47, 47, 133);
+}
+
+/* Button */
+#btn{
+    width: 100%;
+    background-color: #0642bbf0;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 12px 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 5px;
+}
+
+#btn:hover{
+    background-color: #04318d;
+}
+
+/* Bottom Text */
+form p{
+    text-align: center;
+    color: grey;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+/* Register Link */
+form a{
+    text-decoration: none;
+    color: rgb(47, 47, 133);
+    font-weight: 600;
+}
+
+form a:hover{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}

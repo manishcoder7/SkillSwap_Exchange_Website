@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Aerial,sans-serif;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+    position: relative;
+
+}
+header{
+    position: absolute;
+    top: 0;
+    z-index: 10;
+}
+.message{
+    position: absolute;
+    top: 210px;
+    left: 30%;
+    background-color: #fff;
+    height: 400px;
+    width: 650px;
+    z-index: 25;
+    border-radius: 20px;
+    padding: 40px 50px 40px 50px;
+    border: 2px dashed #223353;
+}
+.message_content h1{
+    color: #223353;
+    display: flex;
+    justify-content: center;
+}
+.message_content p{
+    font-size: 20px;
+}
+span{
+    color: blue;
+}
+    

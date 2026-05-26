@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Aerial,sans-serif;
+}
+html, body{
+    overflow-x: hidden;
+    width: 100%;
+    
+}
+
+footer{
+    width: 100%;
+    background-color: rgb(55, 54, 54);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 50px;
+    /* position: relative;
+    z-index: 100; */
+}
+ p{
+    font-size: 17px;
+}
+.right_footer{
+    cursor: pointer;
+}
+.social_icon i{
+    font-size: 17px;
+    gap: 5px;
+    cursor: pointer;
+    transform: 0.3s;
+}
+.social_icon i:hover{
+    transform: scale(1.2);
+}

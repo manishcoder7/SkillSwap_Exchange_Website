@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url("dashboard_background.jpg") no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit_container{
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.3);
+}
+
+.edit_container h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+.edit_container i{
+    color: #0f1491;
+}
+
+.edit_container label{
+    font-size: 18px;
+    font-weight: bold;
+    color: #555;
+}
+
+.edit_container input,
+.edit_container textarea,
+.edit_container select{
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 17px;
+}
+
+.edit_container textarea{
+    resize: none;
+    height: 80px;
+}
+
+.edit_container input:focus,
+.edit_container textarea:focus,
+.edit_container select:focus{
+    outline: none;
+    border-color: #1d22b6;
+    box-shadow: 0 0 4px rgba(29,34,182,0.4);
+}
+
+.update_btn{
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: #1d22b6;
+    color: white;
+    font-size: 22px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.update_btn:hover{
+    background-color: #179537;
+    
+}
