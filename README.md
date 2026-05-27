@@ -47,5 +47,11 @@ The main goal of this project is to help people learn new skills by connecting w
 ![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/bfbd5151390d7163e68ea8532d466d0829bd633e/Screenshot%202026-05-08%20201124.png)
 ![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/a470a08ca6169711d8a27ce0f0d97ffb1dd0cd19/Screenshot%202026-05-08%20201207.png)
 ![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/2876dad5d9604cb2e9a56f1deccf0585dc9a9a78/Screenshot%202026-05-08%20201231.png)
-![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/035c63cb764ec184bb828fe878c1c71cf5ac94fe/Screenshot%202026-05-08%20201036.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
+![img alt](https://github.com/manishcoder7/SkillSwap_Exchange_Website/blob/e61c7843d352e3a12f9a27fcdf1f80b3ca79692f/Screenshot%202026-05-08%20201349.png)
 
